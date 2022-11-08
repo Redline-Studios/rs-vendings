@@ -2,6 +2,8 @@
 Vending machines for QB-Core
 
 ![Redline Studios Banner](https://i.imgur.com/VFEXnGd.png)
+# Redline Studios Discord:
+https://discord.gg/RCU9XEvnsE
 
 # Installation:
 - Setup your config for your items
