@@ -10,3 +10,8 @@ Vending machines for QB-Core
 
 # Preview:
 https://streamable.com/3mmfli
+
+# Dependencies:
+- qb-target
+- qb-menu
+- ps-ui | Uses the circle minigame
